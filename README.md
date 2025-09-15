@@ -1,4 +1,7 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Muhammad Ahsan Rafique
+<div align="center">
+  <h1><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" > Hi, I'm Muhammad Ahsan Rafique</h1>
+</div>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C7B7&center=true&vCenter=true&width=1000&lines=Senior+Cloud+%26+DevOps+Engineer;5%2B+Years+of+Enterprise+Experience;Multi-Cloud+Architect+(AWS%2C+GCP%2C+Azure);Infrastructure+as+Code+Expert;Kubernetes+%26+Container+Orchestration+Specialist" alt="Typing SVG" />
